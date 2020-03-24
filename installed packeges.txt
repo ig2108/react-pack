@@ -1,0 +1,3 @@
+npm install --save-dev prop-types;
+npm install classnames --save;
+npm install --save styled-components;
