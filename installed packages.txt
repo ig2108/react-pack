@@ -9,5 +9,9 @@ npm i indicative;
 03.04.2020
 npm install axios;
 npm install react-loader-spinner --save
-
-
+04.04.2020
+npm install react-router-dom
+05.04.2020
+npm install querystring
+npm install react-select
+npm install react-loadable
