@@ -1,3 +1,8 @@
+package.json deleted:
+"homepage": "https://ig2108.github.io/react-pack",
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+
 24.03.2020
 npm install --save gh-pages;
 npm install --save-dev prop-types;
@@ -15,3 +20,6 @@ npm install react-router-dom
 npm install querystring
 npm install react-select
 npm install react-loadable
+06.04.2020
+added in pack netlify.toml
+npm install netlify-cli -g
