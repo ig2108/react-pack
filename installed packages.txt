@@ -23,3 +23,5 @@ npm install react-loadable
 06.04.2020
 added in pack netlify.toml
 npm install netlify-cli -g
+07.04.2020
+npm install react-transition-group
