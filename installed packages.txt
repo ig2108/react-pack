@@ -25,3 +25,8 @@ added in pack netlify.toml
 npm install netlify-cli -g
 07.04.2020
 npm install react-transition-group
+09.04.2020
+npm install --save react-notifications
+npm install redux
+npm install --save react-redux
+npm install --save-dev redux-devtools-extension
