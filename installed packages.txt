@@ -30,3 +30,5 @@ npm install --save react-notifications
 npm install redux
 npm install --save react-redux
 npm install --save-dev redux-devtools-extension
+11.04.2020
+npm install @reduxjs/toolkit
